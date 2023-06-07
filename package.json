@@ -1,0 +1,32 @@
+{
+  "name": "vue-gsap-svg-loader",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "vue-tsc": "^1.4.2"
+  },
+  "description": "This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.caitoy.web.app/api/sfc-script-setup.html#sfc-script-setup) to learn more.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caicodes/vue-gsap-svg-loader.git"
+  },
+  "author": "Cai Toy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caicodes/vue-gsap-svg-loader/issues"
+  },
+  "homepage": "https://github.com/caicodes/vue-gsap-svg-loader#readme"
+}
